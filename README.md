@@ -4,20 +4,21 @@
 unlearn, then relearn
 
 ## Past
-* edX Microsoft DAT101X - Data Science Orientation (part of the Microsoft Professional Program Certificate in Data Science) (Audited)
+* edX Microsoft DAT101X: Microsoft Professional Program: Data Science Orientation (https://www.edx.org/course/microsoft-professional-program-data-microsoft-dat101x-0)
+* Udacity CS101: Intro to Computer Science (https://www.udacity.com/course/intro-to-computer-science--cs101)
+* Udacity UD827: Intro to Descriptive Statistics (https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+* Udacity UD201: Intro to Inferential Statistics (https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+* Udacity UD350: Intro to Data Science (https://www.udacity.com/course/intro-to-data-science--ud359)
+* Udacity UD206: Shell Workshop (https://www.udacity.com/course/shell-workshop--ud206)
+* Coursera Johns Hopkins University The Unix Workbench (https://www.coursera.org/learn/unix/)
 
 ## Present
-* Udacity CS101 - Intro to Computer Science (Prerequisite of Machine Learning Engineer Nanodegree) by 2/19
-* Udacity UD827 - Intro to Descriptive Statistics (Prerequisite of Machine Learning Engineer Nanodegree) by 2/13
-* Coursera Rice University Fundamentals of Computing Specialization by 2/19
+* Udacity UD595: Linux Command Line Basics (https://www.udacity.com/course/linux-command-line-basics--ud595)
+* Udacity UD120: Intro to Machine Learning (https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 
 ## Foreseeable Future
-* Udacity UD201 - Intro to Inferential Statistics (Prerequisite of Machine Learning Engineer Nanodegree)
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
-* Udacity Data Analyst Nanodegree
-* Udacity Machine Learning Engineer Nanodegree
-* Coursera Johns Hopkins University Data Science Specialization
-* edX Microsoft Professional Program Certificate in Data Science
 
 ## Future
 * Transcendence
