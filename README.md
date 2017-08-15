@@ -19,6 +19,7 @@ unlearn, then relearn
 ## Present
 * Udacity UD120: Intro to Machine Learning (https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
+* Udacity UD299: Configuring Linux Web Servers (https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 ## Foreseeable Future
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
