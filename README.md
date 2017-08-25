@@ -18,10 +18,10 @@ unlearn, then relearn
 * Udacity UD595: Linux Command Line Basics (https://www.udacity.com/course/linux-command-line-basics--ud595)
 * Udacity UD120: Intro to Machine Learning (https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * inflearn 생활코딩 리눅스 강좌 (https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C/)
+* Udacity UD299: Configuring Linux Web Servers (https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 ## Present
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
-* Udacity UD299: Configuring Linux Web Servers (https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 * Udacity UD617: Intro to Hadoop and MapReduce (https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics)
 * Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading)
