@@ -25,10 +25,11 @@ unlearn, then relearn
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
 * Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading, https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
 
 ## Foreseeable Future
-* Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
+* Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
 
 ## Future
 * Transcendence
