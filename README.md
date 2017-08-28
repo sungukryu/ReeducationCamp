@@ -6,6 +6,8 @@ unlearn, then relearn
 ## Past
 * Coursera: Learning How to Learn by University of California, San Diego (https://www.coursera.org/learn/learning-how-to-learn)
 * edX Microsoft DAT101X: Data Science Orientation (https://www.edx.org/course/microsoft-professional-program-data-microsoft-dat101x-0)
+* edX MITx 6.00.1x: Introduction to Computer Science and Programming Using Python (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+* edX MITx 6.00.2x: Introduction to Computational Thinking and Data Science (https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5)
 * Udacity CS101: Intro to Computer Science (https://www.udacity.com/course/intro-to-computer-science--cs101)
 * Udacity UD827: Intro to Descriptive Statistics (https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * Udacity UD201: Intro to Inferential Statistics (https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
@@ -23,9 +25,12 @@ unlearn, then relearn
 
 ## Present
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
+* edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
 * Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading, https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
+* edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
 
 ## Foreseeable Future
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
