@@ -22,19 +22,19 @@ unlearn, then relearn
 * inflearn 생활코딩 리눅스 강좌 (https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C/)
 * Udacity UD299: Configuring Linux Web Servers (https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 * Udacity UD617: Intro to Hadoop and MapReduce (https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+* edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 
 ## Present
-* edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
-* edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
 * Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading, https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 * Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
-* edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
 
 ## Foreseeable Future
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
 * Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
+* edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
 
 ## Future
 * Transcendence
