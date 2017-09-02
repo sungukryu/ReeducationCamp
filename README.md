@@ -30,6 +30,8 @@ unlearn, then relearn
 * edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 * Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
+* Carnegie Mellon University CS 15-150: Functional Programming (http://www.cs.cmu.edu/~15150/)
+* edX DelftX FP101x: Introduction to Functional Programming (https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015)
 
 ## Foreseeable Future
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
