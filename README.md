@@ -38,6 +38,7 @@ unlearn, then relearn
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
 * Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
 * edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
+* Stanford CS 20SI: Tensorflow for Deep Learning Research (https://web.stanford.edu/class/cs20si/)
 
 ## Future
 * Transcendence
