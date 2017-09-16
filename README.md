@@ -23,6 +23,7 @@ unlearn, then relearn
 * Udacity UD299: Configuring Linux Web Servers (https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 * Udacity UD617: Intro to Hadoop and MapReduce (https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
+* Udacity UD197: Intro to Relational Databases (https://www.udacity.com/course/intro-to-relational-databases--ud197)
 * Coursera Introduction to Big Data by University of California, San Diego (https://www.coursera.org/learn/big-data-introduction/)
 
 ## Present
