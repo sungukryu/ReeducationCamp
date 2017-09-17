@@ -9,6 +9,7 @@ unlearn, then relearn
 * edX MITx 6.00.1x: Introduction to Computer Science and Programming Using Python (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * edX MITx 6.00.2x: Introduction to Computational Thinking and Data Science (https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5)
 * Udacity CS101: Intro to Computer Science (https://www.udacity.com/course/intro-to-computer-science--cs101)
+* Udacity UD036: Programming Foundations with Python (https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * Udacity UD827: Intro to Descriptive Statistics (https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * Udacity UD201: Intro to Inferential Statistics (https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 * Udacity UD350: Intro to Data Science (https://www.udacity.com/course/intro-to-data-science--ud359)
