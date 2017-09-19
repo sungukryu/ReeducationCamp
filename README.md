@@ -26,12 +26,12 @@ unlearn, then relearn
 * edX LinuxFoundation LFS101x: Introduction to Linux (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 * Udacity UD197: Intro to Relational Databases (https://www.udacity.com/course/intro-to-relational-databases--ud197)
 * Coursera Introduction to Big Data by University of California, San Diego (https://www.coursera.org/learn/big-data-introduction/)
+* Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 
 ## Present
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
 * Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading, https://www.udacity.com/course/machine-learning-for-trading--ud501)
 * edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
-* Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
 * Carnegie Mellon University CS 15-150: Functional Programming (http://www.cs.cmu.edu/~15150/)
 * edX DelftX FP101x: Introduction to Functional Programming (https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015)
