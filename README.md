@@ -42,6 +42,7 @@ unlearn, then relearn
 * Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
 * Stanford CS 20SI: Tensorflow for Deep Learning Research (https://web.stanford.edu/class/cs20si/)
 * Montreal Institute for Learning Algorithms: Deep Learning Summer School 2017 (https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)
+* edX BerkeleyX CS190.1x: Scalable Machine Learning (https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015)
 
 ## Future
 * Transcendence
