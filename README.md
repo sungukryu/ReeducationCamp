@@ -32,14 +32,14 @@ unlearn, then relearn
 * Coursera Deep Learning for Business by Yonsei University (https://www.coursera.org/learn/deep-learning-business/)
 
 ## Present
-* Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
-* Georgia Tech CS 7646: Machine Learning for Trading (http://www.omscs.gatech.edu/cs-7646-machine-learning-trading, https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* Coursera Machine Learning by Andrew Ng (https://www.coursera.org/learn/machine-learning)
+* Coursera Neural Networks for Machine Learning by Geoffrey Hinton (https://www.coursera.org/learn/neural-networks)
+
+## Foreseeable Future
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
 * Carnegie Mellon University CS 15-150: Functional Programming (http://www.cs.cmu.edu/~15150/)
 * edX DelftX FP101x: Introduction to Functional Programming (https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015)
 * edX BerkeleyX CS190.1x: Scalable Machine Learning (https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015)
-
-## Foreseeable Future
 * Udacity UD953 - Linear Algebra Refresher Course (Prerequisite of Machine Learning Engineer Nanodegree)
 * Coursera Functional Programming in Scala Specialization (https://www.coursera.org/specializations/scala)
 * Stanford CS 20SI: Tensorflow for Deep Learning Research (https://web.stanford.edu/class/cs20si/)
