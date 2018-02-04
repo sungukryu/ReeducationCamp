@@ -29,6 +29,7 @@ unlearn, then relearn
 * Coursera Hadoop Platform and Application Framework by University of California, San Diego (https://www.coursera.org/learn/hadoop/)
 * edX LinuxFoundation LFS103x: Introduction to Apache Hadoop (https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 * edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
+* Coursera Deep Learning for Business by Yonsei University (https://www.coursera.org/learn/deep-learning-business/)
 
 ## Present
 * Georgia Tech CSE 6250: Big Data for Health Informatics (http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics, https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
