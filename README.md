@@ -35,6 +35,7 @@ unlearn, then relearn
 ## Present
 * Coursera Machine Learning by Andrew Ng (https://www.coursera.org/learn/machine-learning)
 * Coursera Neural Networks for Machine Learning by Geoffrey Hinton (https://www.coursera.org/learn/neural-networks)
+* inflearn [NLP] IMDB 영화리뷰 감정 분석을 통한 파이썬 자연어 처리 (https://www.inflearn.com/course/nlp-imdb-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 
 ## Foreseeable Future
 * Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne (https://www.coursera.org/learn/progfun1)
