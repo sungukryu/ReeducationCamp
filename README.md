@@ -4,7 +4,7 @@
 unlearn, then relearn
 
 ## Past
-* Coursera: Learning How to Learn by University of California, San Diego (https://www.coursera.org/learn/learning-how-to-learn)
+* [Coursera: Learning How to Learn by University of California, San Diego](https://www.coursera.org/learn/learning-how-to-learn)
 * edX Microsoft DAT101X: Data Science Orientation (https://www.edx.org/course/microsoft-professional-program-data-microsoft-dat101x-0)
 * edX MITx 6.00.1x: Introduction to Computer Science and Programming Using Python (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * edX MITx 6.00.2x: Introduction to Computational Thinking and Data Science (https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5)
