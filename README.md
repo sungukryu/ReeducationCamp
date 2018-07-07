@@ -31,6 +31,7 @@ unlearn, then relearn
 * edX BerkeleyX CS100.1x: Introduction to Big Data with Apache Spark (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/course/)
 * Coursera Deep Learning for Business by Yonsei University (https://www.coursera.org/learn/deep-learning-business/)
 * edX Microsoft DAT263x: Introduction to Artificial Intelligence (AI) (https://courses.edx.org/courses/course-v1:Microsoft+DAT263x+1T2018a/course/)
+* edX Microsoft DAT203.2x: Principles of Machine Learning (https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+1T2018a/course/)
 
 ## Present
 * Coursera Machine Learning by Andrew Ng (https://www.coursera.org/learn/machine-learning)
