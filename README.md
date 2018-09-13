@@ -33,12 +33,15 @@ unlearn, then relearn
 * [edX Microsoft DAT263x: Introduction to Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:Microsoft+DAT263x+1T2018a/course)
 * [edX Microsoft DAT203.2x: Principles of Machine Learning](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+1T2018a/course)
 * [Coursera Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+* [edX BerkeleyX: CS198.1x: Bitcoin and Cryptocurrencies](https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.1x+2T2018)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 * [inflearn [NLP] IMDB 영화리뷰 감정 분석을 통한 파이썬 자연어 처리](https://www.inflearn.com/course/nlp-imdb-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [edX Microsoft DAT236x: Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+4T2017/course)
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+* [edX LinuxFoundationX LFS170x: Blockchain - Understanding Its Uses and Implications](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS170x+2T2018)
+* [edX LinuxFoundationX LFS171x: Blockchain for Business - An Introduction to Hyperledger Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017)
 
 ## Foreseeable Future
 * [Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne](https://www.coursera.org/learn/progfun1)
