@@ -35,6 +35,9 @@ unlearn, then relearn
 * [Coursera Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [edX BerkeleyX: CS198.1x: Bitcoin and Cryptocurrencies](https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.1x+2T2018)
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+* [edX HarvardX CS50B: CS50's Computer Science for Business Professionals](https://courses.edx.org/courses/course-v1:HarvardX+CS50B+Business)
+* [edX HarvardX CS50T: CS50's Understanding Technology](https://courses.edx.org/courses/course-v1:HarvardX+CS50T+Technology)
+* [Coursera Technical Support Fundamentals by Google](https://www.coursera.org/learn/technical-support-fundamentals)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
