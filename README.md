@@ -38,6 +38,10 @@ unlearn, then relearn
 * [edX HarvardX CS50B: CS50's Computer Science for Business Professionals](https://courses.edx.org/courses/course-v1:HarvardX+CS50B+Business)
 * [edX HarvardX CS50T: CS50's Understanding Technology](https://courses.edx.org/courses/course-v1:HarvardX+CS50T+Technology)
 * [Coursera Technical Support Fundamentals by Google](https://www.coursera.org/learn/technical-support-fundamentals)
+* [Udacity UD256: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+* [Udacity UD303: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+* [Coursera The Bits and Bytes of Computer Networking by Google](https://www.coursera.org/learn/computer-networking)
+* [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
