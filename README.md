@@ -42,6 +42,9 @@ unlearn, then relearn
 * [Udacity UD303: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 * [Coursera The Bits and Bytes of Computer Networking by Google](https://www.coursera.org/learn/computer-networking)
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+* [Udacity UD171: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
+* [Udacity UD388: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+* [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
