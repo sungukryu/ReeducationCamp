@@ -46,6 +46,7 @@ unlearn, then relearn
 * [Udacity UD388: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX DEV237x: Microsoft Professional Orientation : Front End Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV237x+3T2018)
+* [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
