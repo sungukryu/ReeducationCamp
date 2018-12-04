@@ -47,6 +47,10 @@ unlearn, then relearn
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX DEV237x: Microsoft Professional Orientation : Front End Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV237x+3T2018)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+* [Coursera Introduction to HTML5 by University of Michigan](https://www.coursera.org/learn/html)
+* [Coursera Introduction to CSS3 by University of Michigan](https://www.coursera.org/learn/introcss)
+* [Coursera What is Data Science? by IBM](https://www.coursera.org/learn/what-is-datascience)
+* [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
@@ -59,7 +63,6 @@ unlearn, then relearn
 * [edX LinuxFoundationX LFS170x: Blockchain - Understanding Its Uses and Implications](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS170x+2T2018)
 * [edX LinuxFoundationX LFS171x: Blockchain for Business - An Introduction to Hyperledger Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017)
 * [Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne](https://www.coursera.org/learn/progfun1)
-* [Carnegie Mellon University CS 15-150: Functional Programming](http://www.cs.cmu.edu/~15150)
 * [edX DelftX FP101x: Introduction to Functional Programming](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015)
 * [edX BerkeleyX CS190.1x: Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015)
 * [Coursera Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
