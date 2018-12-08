@@ -50,7 +50,8 @@ unlearn, then relearn
 * [Coursera Introduction to HTML5 by University of Michigan](https://www.coursera.org/learn/html)
 * [Coursera Introduction to CSS3 by University of Michigan](https://www.coursera.org/learn/introcss)
 * [Coursera What is Data Science? by IBM](https://www.coursera.org/learn/what-is-datascience)
-* [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course)
+* [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
+* [edX W3Cx HTML5.0x: HTML5 and CSS Fundamentals](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.0x+2T2018)
 
 ## Present
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
