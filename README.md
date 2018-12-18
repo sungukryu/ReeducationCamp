@@ -41,7 +41,6 @@ unlearn, then relearn
 * [Udacity UD256: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 * [Udacity UD303: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 * [Coursera The Bits and Bytes of Computer Networking by Google](https://www.coursera.org/learn/computer-networking)
-* [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Udacity UD171: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Udacity UD388: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
@@ -54,6 +53,7 @@ unlearn, then relearn
 * [edX W3Cx HTML5.0x: HTML5 and CSS Fundamentals](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.0x+2T2018)
 
 ## Present
+* [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 * [inflearn NLP IMDB 영화리뷰 감정 분석을 통한 파이썬 자연어 처리](https://www.inflearn.com/course/nlp-imdb-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [edX ColumbiaX CSMM.101x: Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017)
