@@ -50,6 +50,9 @@ unlearn, then relearn
 * [edX W3Cx HTML5.0x: HTML5 and CSS Fundamentals](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.0x+2T2018)
 * [Udacity UD803: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
 * [Udacity UD117: JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+* [Udacity UD711: Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
+* [Udacity UD330: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+* [Udacity UD615: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
 ## Present
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
