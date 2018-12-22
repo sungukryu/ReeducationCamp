@@ -53,6 +53,8 @@ unlearn, then relearn
 * [Udacity UD711: Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 * [Udacity UD330: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Udacity UD615: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* [Udacity UD989: JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+* [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 
 ## Present
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
