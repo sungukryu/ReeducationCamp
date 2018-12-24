@@ -55,6 +55,7 @@ unlearn, then relearn
 * [Udacity UD615: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Udacity UD989: JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+* [Coursera Interactivity with JavaScript by University of Michigan](https://www.coursera.org/learn/javascript)
 
 ## Present
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
