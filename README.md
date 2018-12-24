@@ -54,10 +54,13 @@ unlearn, then relearn
 * [Udacity UD330: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Udacity UD615: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Udacity UD989: JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-* [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 * [Coursera Interactivity with JavaScript by University of Michigan](https://www.coursera.org/learn/javascript)
+* [Coursera Microservices - Fundamentals by IBM](https://www.coursera.org/learn/intro-ibm-microservices)
+* [Coursera Advanced Styling with Responsive Design by University of Michigan](https://www.coursera.org/learn/responsivedesign)
+* [edX W3Cx JavaScript Introduction](https://www.edx.org/course/javascript-introduction)
 
 ## Present
+* [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
