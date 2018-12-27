@@ -61,13 +61,14 @@ unlearn, then relearn
 * [Udacity UD245: Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 * [Udacity UD110: Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 * [edX Microsoft DEV203x: Introduction to Bootstrap - A Tutorial](https://courses.edx.org/courses/course-v1:Microsoft+DEV203x+3T2018/)
+* [Udacity UD893: Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ## Present
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
-* [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 * [inflearn NLP IMDB 영화리뷰 감정 분석을 통한 파이썬 자연어 처리](https://www.inflearn.com/course/nlp-imdb-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [edX ColumbiaX CSMM.101x: Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017)
