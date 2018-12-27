@@ -58,6 +58,9 @@ unlearn, then relearn
 * [Coursera Microservices - Fundamentals by IBM](https://www.coursera.org/learn/intro-ibm-microservices)
 * [Coursera Advanced Styling with Responsive Design by University of Michigan](https://www.coursera.org/learn/responsivedesign)
 * [edX W3Cx JavaScript Introduction](https://www.edx.org/course/javascript-introduction)
+* [Udacity UD245: Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+* [Udacity UD110: Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+* [edX Microsoft DEV203x: Introduction to Bootstrap - A Tutorial](https://courses.edx.org/courses/course-v1:Microsoft+DEV203x+3T2018/)
 
 ## Present
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
