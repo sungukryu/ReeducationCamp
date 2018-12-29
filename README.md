@@ -63,6 +63,8 @@ unlearn, then relearn
 * [edX Microsoft DEV203x: Introduction to Bootstrap - A Tutorial](https://courses.edx.org/courses/course-v1:Microsoft+DEV203x+3T2018/)
 * [Udacity UD893: Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+* [edX Microsoft: DEV234x: Asynchronous Programming with Javascript](https://www.edx.org/course/asynchronous-programming-javascript-1)
+* [Udacity UD109: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 
 ## Present
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
