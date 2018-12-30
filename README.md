@@ -65,6 +65,8 @@ unlearn, then relearn
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 * [edX Microsoft: DEV234x: Asynchronous Programming with Javascript](https://www.edx.org/course/asynchronous-programming-javascript-1)
 * [Udacity UD109: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+* [Udacity UD356: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+* [Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/bootstrap-4)
 
 ## Present
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
