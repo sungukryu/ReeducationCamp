@@ -43,7 +43,7 @@ unlearn, then relearn
 * [Coursera The Bits and Bytes of Computer Networking by Google](https://www.coursera.org/learn/computer-networking)
 * [Udacity UD171: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Udacity UD388: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-* [edX DEV237x: Microsoft Professional Orientation : Front End Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV237x+3T2018)
+* [edX Microsoft DEV237x: Microsoft Professional Orientation : Front End Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV237x+3T2018)
 * [Coursera Introduction to HTML5 by University of Michigan](https://www.coursera.org/learn/html)
 * [Coursera Introduction to CSS3 by University of Michigan](https://www.coursera.org/learn/introcss)
 * [Coursera What is Data Science? by IBM](https://www.coursera.org/learn/what-is-datascience)
@@ -63,11 +63,12 @@ unlearn, then relearn
 * [edX Microsoft DEV203x: Introduction to Bootstrap - A Tutorial](https://courses.edx.org/courses/course-v1:Microsoft+DEV203x+3T2018/)
 * [Udacity UD893: Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Udacity UD898: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-* [edX Microsoft: DEV234x: Asynchronous Programming with Javascript](https://www.edx.org/course/asynchronous-programming-javascript-1)
+* [edX Microsoft DEV234x: Asynchronous Programming with Javascript](https://www.edx.org/course/asynchronous-programming-javascript-1)
 * [Udacity UD109: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 * [Udacity UD356: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 * [Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/bootstrap-4)
 * [Coursera Front-End Web Development with React by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/front-end-react)
+* [edX Microsoft DEV281x: Introduction to ReactJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV281x+2T2018)
 
 ## Present
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
