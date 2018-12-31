@@ -67,6 +67,7 @@ unlearn, then relearn
 * [Udacity UD109: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 * [Udacity UD356: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 * [Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/bootstrap-4)
+* [Coursera Front-End Web Development with React by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/front-end-react)
 
 ## Present
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
