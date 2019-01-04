@@ -72,15 +72,15 @@ unlearn, then relearn
 
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-* [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence) [Udacity](https://www.udacity.com/course/artificial-intelligence--ud954)
+* [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence)
+[Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
+* [Georgia Tech CS 7637: Knowledge-Based Artificial Intelligence: Cognitive Systems](http://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems)
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
-* [inflearn NLP IMDB 영화리뷰 감정 분석을 통한 파이썬 자연어 처리](https://www.inflearn.com/course/nlp-imdb-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [edX ColumbiaX CSMM.101x: Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017)
-* [Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
 * [edX Microsoft DAT236x: Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+4T2017/course)
 
 ## Foreseeable Future
