@@ -73,7 +73,7 @@ unlearn, then relearn
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence)
-[Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
+* [Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
 * [Georgia Tech CS 7637: Knowledge-Based Artificial Intelligence: Cognitive Systems](http://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems)
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
