@@ -71,6 +71,8 @@ unlearn, then relearn
 * [edX Microsoft DEV281x: Introduction to ReactJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV281x+2T2018)
 
 ## Present
+* [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence) [Udacity](https://www.udacity.com/course/artificial-intelligence--ud954)
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
