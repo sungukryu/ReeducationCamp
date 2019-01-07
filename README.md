@@ -70,6 +70,7 @@ unlearn, then relearn
 * [Coursera Front-End Web Development with React by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/front-end-react)
 * [edX Microsoft DEV281x: Introduction to ReactJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV281x+2T2018)
 * [Udacity Design101: Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+* [edX TUMx DWAPNx: Web App Development with the Power of Node.js](https://courses.edx.org/courses/course-v1:TUMx+DWAPNx+1T_2018)
 
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
