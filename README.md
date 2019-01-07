@@ -76,23 +76,20 @@ unlearn, then relearn
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence)
 * [Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
+* [edX ColumbiaX CSMM.101x: Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017)
 * [Georgia Tech CS 7637: Knowledge-Based Artificial Intelligence: Cognitive Systems](http://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems)
+* [Udacity UD409: Knowledge-Based AI: Cognitive Systems](https://in.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 * [Udacity UD198: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 * [Udacity UD892: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 * [Udacity UD088: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 * [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
-* [edX ColumbiaX CSMM.101x: Artificial Intelligence (AI)](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017)
 * [edX Microsoft DAT236x: Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+4T2017/course)
 
 ## Foreseeable Future
 * [edX LinuxFoundationX LFS170x: Blockchain - Understanding Its Uses and Implications](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS170x+2T2018)
 * [edX LinuxFoundationX LFS171x: Blockchain for Business - An Introduction to Hyperledger Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017)
-* [Coursera Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne](https://www.coursera.org/learn/progfun1)
-* [edX DelftX FP101x: Introduction to Functional Programming](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015)
-* [edX BerkeleyX CS190.1x: Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015)
 * [Coursera Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
-* [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
 * [Montreal Institute for Learning Algorithms: Deep Learning Summer School 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017)
 
 ## Future
