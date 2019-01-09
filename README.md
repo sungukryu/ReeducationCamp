@@ -71,6 +71,7 @@ unlearn, then relearn
 * [edX Microsoft DEV281x: Introduction to ReactJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV281x+2T2018)
 * [Udacity Design101: Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 * [edX TUMx DWAPNx: Web App Development with the Power of Node.js](https://courses.edx.org/courses/course-v1:TUMx+DWAPNx+1T_2018)
+* [edX PennX SD4x: Programming for the Web with JavaScript](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017)
 
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
