@@ -72,6 +72,8 @@ unlearn, then relearn
 * [Udacity Design101: Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 * [edX TUMx DWAPNx: Web App Development with the Power of Node.js](https://courses.edx.org/courses/course-v1:TUMx+DWAPNx+1T_2018)
 * [edX PennX SD4x: Programming for the Web with JavaScript](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017)
+* [edX Microsoft DEV283x: Introduction to NodeJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV283x+3T2018)
+* [Coursera Server-side Development with NodeJS, Express and MongoDB by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs) 
 
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
