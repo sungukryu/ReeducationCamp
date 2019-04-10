@@ -74,6 +74,8 @@ unlearn, then relearn
 * [edX PennX SD4x: Programming for the Web with JavaScript](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017)
 * [edX Microsoft DEV283x: Introduction to NodeJS](https://courses.edx.org/courses/course-v1:Microsoft+DEV283x+3T2018)
 * [Coursera Server-side Development with NodeJS, Express and MongoDB by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs) 
+* [스타트업 세무 강좌 - 스타트업,초기 기업들을 위한 실용적 세무 이야기](https://www.inflearn.com/course/스타트업-세무-강좌)
+* [Meet Advisor 가 알려주는 인사, 노무 관리!!](https://www.inflearn.com/course/meet-advisor-가-알려주는-인사-노무-관리)
 
 ## Present
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
