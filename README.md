@@ -76,8 +76,11 @@ unlearn, then relearn
 * [Coursera Server-side Development with NodeJS, Express and MongoDB by The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs) 
 * [스타트업 세무 강좌 - 스타트업,초기 기업들을 위한 실용적 세무 이야기](https://www.inflearn.com/course/스타트업-세무-강좌)
 * [Meet Advisor 가 알려주는 인사, 노무 관리!!](https://www.inflearn.com/course/meet-advisor-가-알려주는-인사-노무-관리)
+* [Coursera High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration)
+* [Coursera Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling)
 
 ## Present
+* [Coursera Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership)
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence)
 * [Udacity UD954: Artificial Intelligence](https://classroom.udacity.com/courses/ud954)
