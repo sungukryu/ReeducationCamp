@@ -78,8 +78,13 @@ unlearn, then relearn
 * [Meet Advisor 가 알려주는 인사, 노무 관리!!](https://www.inflearn.com/course/meet-advisor-가-알려주는-인사-노무-관리)
 * [Coursera High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration)
 * [Coursera Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling)
+* [Coursera Leadership Through Social Influence](https://www.coursera.org/learn/leadership-socialinfluence)
+* [Coursera What is news?](https://www.coursera.org/learn/what-is-news)
+* [Coursera Gathering and Developing the News](https://www.coursera.org/learn/gathering-the-news)
+* [Coursera Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
 
 ## Present
+* [Coursera Become a Journalist: Report the News! Specialization](https://www.coursera.org/specializations/become-a-journalist)
 * [Coursera Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership)
 * [Udacity CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * [Georgia Tech CS 6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence)
