@@ -99,6 +99,7 @@ unlearn, then relearn
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 * [edX Microsoft DAT236x: Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+4T2017/course)
 * [Data Analysis with R](https://classroom.udacity.com/courses/ud651)
+* [HarvardX PH525.1x: Statistics and R](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+3T2019)
 
 ## Foreseeable Future
 * [edX LinuxFoundationX LFS170x: Blockchain - Understanding Its Uses and Implications](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS170x+2T2018)
