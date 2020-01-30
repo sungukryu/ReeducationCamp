@@ -98,7 +98,6 @@ unlearn, then relearn
 * [edX HarvardX CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/)
 * [Coursera Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 * [edX Microsoft DAT236x: Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+4T2017/course)
-* [Data Analysis with R](https://classroom.udacity.com/courses/ud651)
 * [HarvardX PH525.1x: Statistics and R](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+3T2019)
 
 ## Foreseeable Future
