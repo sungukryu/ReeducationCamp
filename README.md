@@ -82,6 +82,7 @@ unlearn, then relearn
 * [Coursera What is news?](https://www.coursera.org/learn/what-is-news)
 * [Coursera Gathering and Developing the News](https://www.coursera.org/learn/gathering-the-news)
 * [Coursera Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
+* [Udacity Intro to DevOps](https://learn.udacity.com/courses/ud611)
 
 ## Present
 * [Udacity Cloud DevOps Engineer Nanodegree](https://learn.udacity.com/nanodegrees/nd9991)
