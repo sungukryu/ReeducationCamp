@@ -84,7 +84,7 @@ unlearn, then relearn
 * [Coursera Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
 * [Udacity Intro to DevOps](https://learn.udacity.com/courses/ud611)
 * [Udacity Build Native Mobile Apps with Flutter](https://learn.udacity.com/courses/ud905)
-* [Google Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
+* [Google Developers Codelabs Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
   
 ## Present
 * [Udacity Cloud DevOps Engineer Nanodegree](https://learn.udacity.com/nanodegrees/nd9991)
