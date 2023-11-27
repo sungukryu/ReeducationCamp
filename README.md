@@ -83,6 +83,7 @@ unlearn, then relearn
 * [Coursera Gathering and Developing the News](https://www.coursera.org/learn/gathering-the-news)
 * [Coursera Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
 * [Udacity Intro to DevOps](https://learn.udacity.com/courses/ud611)
+* [Udacity Build Native Mobile Apps with Flutter](https://learn.udacity.com/courses/ud905)
 
 ## Present
 * [Udacity Cloud DevOps Engineer Nanodegree](https://learn.udacity.com/nanodegrees/nd9991)
