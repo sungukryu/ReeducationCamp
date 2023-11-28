@@ -85,6 +85,8 @@ unlearn, then relearn
 * [Udacity Intro to DevOps](https://learn.udacity.com/courses/ud611)
 * [Udacity Build Native Mobile Apps with Flutter](https://learn.udacity.com/courses/ud905)
 * [Google Developers Codelabs Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
+* [Udacity AWS Machine Learning Foundations](https://learn.udacity.com/courses/ud065)
+
   
 ## Present
 * [Udacity Cloud DevOps Engineer Nanodegree](https://learn.udacity.com/nanodegrees/nd9991)
