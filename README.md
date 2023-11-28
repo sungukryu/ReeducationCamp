@@ -92,13 +92,12 @@ unlearn, then relearn
   * Getting Started with CloudFormation
   * Introduction to Microservices at Scale with AWS and Kubernetes
   * Introduction to CI/CD
+
+## Foreseeable Future
 * [Udacity AWS Machine Learning Foundations](https://learn.udacity.com/courses/ud065)
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
   * Freelancing 101 and Preparing to Market Yourself
   * Managing Freelancing Projects
-
-
-## Foreseeable Future
 
 ## Future
 * Transcendence
