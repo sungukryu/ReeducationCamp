@@ -86,8 +86,6 @@ unlearn, then relearn
 * [Udacity Build Native Mobile Apps with Flutter](https://learn.udacity.com/courses/ud905)
 * [Google Developers Codelabs Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
 
-
-  
 ## Present
 * [Udacity Cloud DevOps Engineer Nanodegree](https://learn.udacity.com/nanodegrees/nd9991)
   * Cloud Fundamentals
@@ -96,6 +94,9 @@ unlearn, then relearn
   * Introduction to CI/CD
 * [Udacity AWS Machine Learning Foundations](https://learn.udacity.com/courses/ud065)
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
+  * Freelancing 101 and Preparing to Market Yourself
+  * Managing Freelancing Projects
+
 
 ## Foreseeable Future
 
