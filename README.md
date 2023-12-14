@@ -94,10 +94,10 @@ unlearn, then relearn
 
 ## Present
 * [Udacity Cloud Developer Nanodegree](https://learn.udacity.com/nanodegrees/nd9990)
- * Cloud Fundamentals
- * Full Stack Apps on AWS
- * Monolith to Microservices at Scale
- * Develop and Deploy Serverless Apps
+  * Cloud Fundamentals
+  * Full Stack Apps on AWS
+  * Monolith to Microservices at Scale
+  * Develop and Deploy Serverless Apps
 
 ## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
