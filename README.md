@@ -98,6 +98,12 @@ unlearn, then relearn
   * Full Stack Apps on AWS
   * Monolith to Microservices at Scale
   * Develop and Deploy Serverless Apps
+* [Udacity Full Stack Web Developer Nanodegree](https://learn.udacity.com/nanodegrees/nd0044)
+  * SQL and Data Modeling for the Web
+  * API Development and Documentation
+  * Identity Access Management
+  * Server Deployment and Containerization
+
 
 ## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
