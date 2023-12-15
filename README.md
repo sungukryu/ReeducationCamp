@@ -104,7 +104,8 @@ unlearn, then relearn
   * Identity Access Management
   * Server Deployment and Containerization
   * Full Stack Capstone
-
+* [Udacity SQL for Data Analysis](https://learn.udacity.com/courses/ud198)
+* [Udacity Intro to Relational Databases](https://learn.udacity.com/courses/ud197)
 
 ## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
