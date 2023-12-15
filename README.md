@@ -82,6 +82,7 @@ unlearn, then relearn
 * [Coursera What is news?](https://www.coursera.org/learn/what-is-news)
 * [Coursera Gathering and Developing the News](https://www.coursera.org/learn/gathering-the-news)
 * [Coursera Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
+* [Udacity Intro to Deep Learning with PyTorch](https://learn.udacity.com/courses/ud188)
 * [Udacity Intro to DevOps](https://learn.udacity.com/courses/ud611)
 * [Udacity Build Native Mobile Apps with Flutter](https://learn.udacity.com/courses/ud905)
 * [Google Developers Codelabs Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
