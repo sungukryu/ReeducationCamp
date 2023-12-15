@@ -103,6 +103,7 @@ unlearn, then relearn
   * API Development and Documentation
   * Identity Access Management
   * Server Deployment and Containerization
+  * Full Stack Capstone
 
 
 ## Foreseeable Future
