@@ -93,22 +93,21 @@ unlearn, then relearn
   * Introduction to CI/CD
  * [Udacity AWS Machine Learning Foundations](https://learn.udacity.com/courses/ud065)
  * [Udacity Intro to HTML and CSS](https://learn.udacity.com/courses/ud001)
-
-## Present
 * [Udacity Full Stack Web Developer Nanodegree](https://learn.udacity.com/nanodegrees/nd0044)
   * SQL and Data Modeling for the Web
   * API Development and Documentation
   * Identity Access Management
   * Server Deployment and Containerization
   * Full Stack Capstone
-
-## Foreseeable Future
+  * 
+## Present
 * [Udacity Cloud Developer Nanodegree](https://learn.udacity.com/nanodegrees/nd9990)
   * Cloud Fundamentals
   * Full Stack Apps on AWS
   * Monolith to Microservices at Scale
   * Develop and Deploy Serverless Apps
 
+## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
   * Freelancing 101 and Preparing to Market Yourself
   * Managing Freelancing Projects
