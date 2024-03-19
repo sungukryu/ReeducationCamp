@@ -106,6 +106,8 @@ unlearn, then relearn
   * Full Stack Apps on AWS
   * Monolith to Microservices at Scale
   * Develop and Deploy Serverless Apps
+ * [Udacity Problem Solving with Advanced Analytics](https://learn.udacity.com/courses/ud976)
+ * [Udacity Time Series Forecasting](https://learn.udacity.com/courses/ud980)
 
 ## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
