@@ -99,15 +99,15 @@ unlearn, then relearn
   * Identity Access Management
   * Server Deployment and Containerization
   * Full Stack Capstone
-  * 
+ * [Udacity Problem Solving with Advanced Analytics](https://learn.udacity.com/courses/ud976)
+ * [Udacity Time Series Forecasting](https://learn.udacity.com/courses/ud980)
+   
 ## Present
 * [Udacity Cloud Developer Nanodegree](https://learn.udacity.com/nanodegrees/nd9990)
   * Cloud Fundamentals
   * Full Stack Apps on AWS
   * Monolith to Microservices at Scale
   * Develop and Deploy Serverless Apps
- * [Udacity Problem Solving with Advanced Analytics](https://learn.udacity.com/courses/ud976)
- * [Udacity Time Series Forecasting](https://learn.udacity.com/courses/ud980)
 
 ## Foreseeable Future
 * [Udacity Digital Freelancer Nanodegree](https://learn.udacity.com/nanodegrees/nd083)
